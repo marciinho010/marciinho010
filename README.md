@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Paulo Fernandes                                                    
 - 👀 Estou interesado em seguir carreira no ramo desenvolvimento de software         .
-- 🌱 Atualmente estou aprendendo Java e JavaScript                                    
+- 🌱 Atualmente estou aprendendo Java, JPA/hibernate, Banco de dados (MySQL, Postgre, MongoDb), Spring Boot e realizando projetos API Rest.                                
 - 💞️ Estou procurando uma oportunidade                                                
     minha sonhada carreira na área de Desenvolvimento                                 
 - 📫 para entrar em contato comigo através do Linkedin:                               
